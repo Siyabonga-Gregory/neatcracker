@@ -1,7 +1,7 @@
 # neatcracker (Please, run it as administrator)
 👉Please, before you release any paid software to the public , make sure you have fully tested the software for trials versions because it very very sad to see powerfully software's relying on a computer's current time for trial countdown.
 
-👉I have develop a simply bat file to lock the computer time within the countdown duration , This make some trial software in thinking there that it still in a count down range where's not.
+👉I have develop a simply bat file to lock the computer time within the countdown duration , This make some trial software in thinking that there are it still in a count down range where's not.
 
 👉You can use this trick if the other program's on your computer doesn't depend on your local timer for consistency but else don't use this trick, rather just buy a software license..
 
