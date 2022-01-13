@@ -55,7 +55,7 @@ echo /////oo++++++++++++oosyyoooossyyyyhdddhysyyyyyyyhhhhhhhhhhhyyhdddhmhssssoss
 echo ///+/oo++++++++++++oosyyoooosysyyyyyhdddhysssssyyyyyyyhhhyyhhddhyhmysssoossssoooooooo+osooooo+o+ooos
 echo ....................................................................................................
 echo Author: Siyabonga Gregory
-echo Email :huge.fuze@gnail.com
+echo Email :huge.fuze@gmail.com
 set startTimer=%time%
 set countDownTimer=%150%
 :loop
