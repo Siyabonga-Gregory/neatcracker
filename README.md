@@ -21,4 +21,9 @@ Thank you for coming by my repo and please don't forget to give this repo a star
 
 ❤️Manny thanks!❤️
 
+# How to use this bat file ? 
+Start the trial software then before the trial countdown expired , run the bat file as administrator
+
+Please, note your computer time won't be accurrate  😂 meaning you have to update your computer time as soon you done using the  trial and make sure you have close the bat file.
+
 ![neatcracker](https://user-images.githubusercontent.com/19228713/149339541-092aa33f-6148-4011-8c66-ad9b77d8d789.png)
